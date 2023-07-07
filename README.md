@@ -21,3 +21,4 @@
    ### [Reminder Service](https://github.com/Sudipta2002/ReminderService)
    ### [Api Gateway Service](https://github.com/Sudipta2002/Api_Gateway)
    
+![AIRLINE MANAGEMENT BASIC HLD](https://github.com/Sudipta2002/Airline-Management-System/assets/78099311/39c30dfc-02cf-44f2-9f2d-020a985f9dd8)
