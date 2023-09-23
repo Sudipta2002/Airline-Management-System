@@ -23,4 +23,4 @@
 
 BASIC STRUCTURE 
 
-![AIRLINE MANAGEMENT BASIC HLD (1)](https://github.com/Sudipta2002/Airline-Management-System/assets/78099311/54502d69-3b1e-4b23-a008-205dcea991b6)
+
